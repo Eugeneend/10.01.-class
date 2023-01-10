@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    background-color: #c9c9c9;
+    font-family: 'Playfair Display', serif;
+    width: 100%;
+}
+
+
+
+
+.description{
+    display: flex;
+    font-size: 24px;
+    line-height: 1.2em;
+    text-align: center;
+    color: #fff;
+    background-color: #0E1B1B;
+    width: 336px;
+    height: 97px;
+    margin-left: 15px;
+    transform: translateY(-50%);
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.col{position: relative;}
+
+.label{background-color: yellow;
+    width: 60px;
+    text-align: center;
+    position: absolute;
+    /* margin: -480px 0 0 0; */
+    top: 15px;
+    left: 25px;
+
+    
+    
+}
+
+
+
+
+
+
+
+/* div{position: relative;}
+
+img{width: 370px;
+}
+.first{position: absolute;
+margin-left: 135px;
+}
+
+.second{position: absolute;
+margin-left: 535px;}
+
+.third{position: absolute;
+    margin-left: 935px;}
+
+span{font-size: 24px;
+line-height: 28px;
+text-align: center;
+color: #fff;}  
+
+.textone{position: absolute;
+    height: 97px;
+    margin-left: 152px;
+    margin-top: 340px;
+    background-color: #0E1B1B;
+width: 340px;}
+
+.texttwo{background-color: #0E1B1B;
+    position: absolute;
+width: 340px;
+height: 97px;
+margin-left: 552px;
+margin-top: 340px;
+}
+
+.textthree{
+    background-color: #0E1B1B;
+    position: absolute;
+    width: 340px;
+    height: 97px;
+margin-left: 952px;
+margin-top: 340px;
+}
+ */
